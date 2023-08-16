@@ -1,7 +1,7 @@
 <script>
 	let result = 0;
 
-	let weightMetrics = '';
+	let weightMetrics = 'kg';
 	let weightVal = 0;
 	let heightVal = 0;
 	let ageVal = 0;
@@ -19,8 +19,11 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<title>Free Calorie Calculator - Stupid-Diet</title>
+	<meta
+		name="description"
+		content="Easily calculate your base calories and achieve your health goals effortlessly. Try our intuitive calorie calculator today and take control of your fitness journey."
+	/>
 </svelte:head>
 
 <div class="max-w-6xl mx-auto">
