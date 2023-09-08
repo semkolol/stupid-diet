@@ -10,7 +10,18 @@ export async function GET() {
       xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
       xmlns:video="https://www.google.com/schemas/sitemap-video/1.1"
     >
-      <!-- <url> elements go here -->
+      
+    
+      <url>
+        <loc>https://www.stupid-diet.com/</loc>
+        <lastmod>2023-09-08T22:01:56+00:00</lastmod>
+        <priority>1.00</priority>
+      </url>
+      <url>
+        <loc>https://www.stupid-diet.com/about</loc>
+        <lastmod>2023-09-08T22:01:56+00:00</lastmod>
+        <priority>0.80</priority>
+      </url>
     </urlset>`.trim(),
     {
       headers: {
