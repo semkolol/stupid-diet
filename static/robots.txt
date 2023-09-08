@@ -1,4 +1,4 @@
-# https://www.robotstxt.org/robotstxt.html
-# Allow all crawlers
 User-agent: *
 Allow: /
+
+Sitemap: https://stupid-diet.com/sitemap.xml
