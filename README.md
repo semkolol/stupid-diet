@@ -1,17 +1,12 @@
-# create-svelte
+# A Simple Calorie Calculator, you could say its almost Stupid Simple
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+[Visit the Website](https://stupid-diet.vercel.app/)
 
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
+## Run Locally:
 
 ```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
+# git clone the repo and run
+npm install
 ```
 
 ## Developing
