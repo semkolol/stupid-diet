@@ -2,6 +2,8 @@
 
 [Visit the Website](https://stupid-diet.vercel.app/)
 
+[![Screenshot of demo](./image.png)](https://stupid-diet.vercel.app/)
+
 ## Run Locally:
 
 ```bash
